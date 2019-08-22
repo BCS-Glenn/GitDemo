@@ -10,6 +10,8 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            var s = new Student();
+
             Console.WriteLine("");
         }
     }
